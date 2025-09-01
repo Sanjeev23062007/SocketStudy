@@ -93,7 +93,7 @@ while True:
 
 ### client.py
 
-<img width="1374" height="1076" alt="image" src="https://github.com/user-attachments/assets/572a3191-31d0-408e-b18c-42fbf4196478" />
+<img width="1375" height="1115" alt="image" src="https://github.com/user-attachments/assets/a3290928-3713-4442-8a46-5ae0bfe44e72" />
 
 
 ## Result:
